@@ -31,16 +31,19 @@ The following **additional** features are implemented:
 
 <!-- * [ ] List anything else that you added to improve the site's functionality! -->
 - [X] Add a navbar
+- [] Pasting image links removes the http
+- [] Pasting url links removes the beginning domain, keep handle, append "@"
+- [] Allow users to add their own social platform
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
+![GIF of completed project in light mode](/public/demo/light-mode_1920.gif)
+![GIF of completed project in dark mode](/public/demo/dark-mode_1920.gif)
 <!-- 👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
-👉🏿<img src='/public/demo/light-mode_1920.gif' title='Video Walkthrough Light Mode' alt='Video Walkthrough Light Mode' />
 
-👉🏿<img src='/public/demo/dark-mode_1920.gif' title='Video Walkthrough Dark Mode' alt='Video Walkthrough Dark Mode' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 <!-- GIF created with ...  👉🏿 GIF tool here -->
